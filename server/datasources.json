@@ -4,7 +4,7 @@
     "connector": "memory"
   },
   "mysqlDs": {
-    "host": "localhost",
+    "host": "db",
     "port": 3306,
     "database": "SBO",
     "password": "Password123!!",
