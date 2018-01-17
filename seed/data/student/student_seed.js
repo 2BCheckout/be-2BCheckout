@@ -10,14 +10,6 @@ module.exports = [
         modifiedAt: new Date()
 	},
 	{
-		names: 'Whoopi U. Salas',
-		phone: '80229906',
-		card_number: 20000001,
-		email: 'ante.bibendum.ullamcorper@nonjustoProin.com',
-		createdAt: new Date(),
-        modifiedAt: new Date()
-	},
-	{
 		names: 'Plato Y. Freeman',
 		phone: '12877235',
 		card_number: 20000002,
@@ -242,14 +234,6 @@ module.exports = [
         modifiedAt: new Date()
 	},
 	{
-		names: 'Wang B. Downs',
-		phone: '49147632',
-		card_number: 20000030,
-		email: 'posuere.cubilia.Curae@convallisestvitae.net',
-		createdAt: new Date(),
-        modifiedAt: new Date()
-	},
-	{
 		names: 'Reuben O. Quinn',
 		phone: '01765252',
 		card_number: 20000031,
@@ -310,14 +294,6 @@ module.exports = [
 		phone: '06658183',
 		card_number: 20000038,
 		email: 'hendrerit.consectetuer@magnaNam.ca',
-		createdAt: new Date(),
-        modifiedAt: new Date()
-	},
-	{
-		names: 'Ursula R. Sharp',
-		phone: '10266722',
-		card_number: 20000039,
-		email: 'tincidunt.adipiscing.Mauris@ipsumPhasellus.ca',
 		createdAt: new Date(),
         modifiedAt: new Date()
 	},
@@ -498,14 +474,6 @@ module.exports = [
         modifiedAt: new Date()
 	},
 	{
-		names: 'Kim L. Mcbride',
-		phone: '84469752',
-		card_number: 20000062,
-		email: 'Curabitur.dictum.Phasellus@mifringilla.org',
-		createdAt: new Date(),
-        modifiedAt: new Date()
-	},
-	{
 		names: 'Sawyer U. Rhodes',
 		phone: '31060830',
 		card_number: 20000063,
@@ -634,14 +602,6 @@ module.exports = [
         modifiedAt: new Date()
 	},
 	{
-		names: 'Wesley T. Mccormick',
-		phone: '15357160',
-		card_number: 20000079,
-		email: 'Aliquam.erat.volutpat@egetmollislectus.com',
-		createdAt: new Date(),
-        modifiedAt: new Date()
-	},
-	{
 		names: 'Phoebe N. Rosales',
 		phone: '66000427',
 		card_number: 20000080,
@@ -714,14 +674,6 @@ module.exports = [
         modifiedAt: new Date()
 	},
 	{
-		names: 'Neville O. Waller',
-		phone: '50661136',
-		card_number: 20000089,
-		email: 'Morbi.vehicula.Pellentesque@Cumsociisnatoque.ca',
-		createdAt: new Date(),
-        modifiedAt: new Date()
-	},
-	{
 		names: 'Ryan W. Mclaughlin',
 		phone: '32653927',
 		card_number: 20000090,
@@ -734,14 +686,6 @@ module.exports = [
 		phone: '61450658',
 		card_number: 20000091,
 		email: 'congue@erosProin.com',
-		createdAt: new Date(),
-        modifiedAt: new Date()
-	},
-	{
-		names: 'Andrew E. Kirk',
-		phone: '08114934',
-		card_number: 20000092,
-		email: 'pede.sagittis.augue@magnisdisparturient.com',
 		createdAt: new Date(),
         modifiedAt: new Date()
 	},

@@ -15,12 +15,12 @@ module.exports = function(app, ds) {
                 throw _err;
 
         })
-        app.models.Route.create(routes, function(_err) {
-            if (_err)
-                throw _err;
+        // app.models.Route.create(routes, function(_err) {
+        //     if (_err)
+        //         throw _err;
 
-        })
-        app.models.Student.create(users, function(_err) {
+        // })
+        app.models.Student.create(students, function(_err) {
             if (_err)
                 throw _err;
 
