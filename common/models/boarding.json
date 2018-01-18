@@ -8,7 +8,14 @@
   "mixins": {
     "TimeStamp": true
   },
-  "properties": {},
+  "properties": {
+    "student": {
+      "type": "string"
+    },
+    "ride": {
+      "type": "string"
+    }
+  },
   "validations": [],
   "relations": {},
   "acls": [],

@@ -8,7 +8,18 @@
   "mixins": {
     "TimeStamp": true
   },
-  "properties": {},
+  "properties": {
+    "route": {
+      "type": "string"
+    },
+    "plate": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date",
+      "required": true
+    }
+  },
   "validations": [],
   "relations": {},
   "acls": [],
