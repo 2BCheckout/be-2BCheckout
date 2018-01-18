@@ -4,8 +4,9 @@ var users = require(path.resolve(__dirname, './data/user/user_seed'));
 var routes = require(path.resolve(__dirname, './data/route/route_seed'));
 var students = require(path.resolve(__dirname, './data/student/student_seed'));
 var rides = require(path.resolve(__dirname, './data/ride/ride_seed'));
+var boardings = require(path.resolve(__dirname, './data/boarding/boarding_seed'));
 
-var models = ['UserAccount', 'ACL', 'Role', 'RoleMapping', 'AccessToken', 'Student', 'Route', 'Ride'];
+var models = ['UserAccount', 'ACL', 'Role', 'RoleMapping', 'AccessToken', 'Student', 'Route', 'Ride', 'Boarding'];
 
 module.exports = function(app, ds) {
     
@@ -28,6 +29,10 @@ module.exports = function(app, ds) {
 
         })
         app.models.Ride.create(rides, function(_err) {
+            if (_err)
+                throw _err;
+        })
+        app.models.Boarding.create(boardings, function(_err) {
             if (_err)
                 throw _err;
         })
