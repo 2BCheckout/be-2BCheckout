@@ -75,13 +75,7 @@
     }
   },
   "validations": [],
-  "relations": {
-    "boardings": {
-      "type": "hasMany",
-      "model": "Boarding",
-      "foreignKey": ""
-    }
-  },
+  "relations": {},
   "acls": [],
   "methods": {}
 }

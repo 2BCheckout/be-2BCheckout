@@ -43,18 +43,7 @@
     }
   },
   "validations": [],
-  "relations": {
-    "boardings": {
-      "type": "hasMany",
-      "model": "Boarding",
-      "foreignKey": ""
-    },
-    "rides": {
-      "type": "hasMany",
-      "model": "Ride",
-      "foreignKey": ""
-    }
-  },
+  "relations": {},
   "acls": [],
   "methods": {}
 }
