@@ -9,8 +9,8 @@
     "TimeStamp": true
   },
   "properties": {
-    "route": {
-      "type": "string"
+    "routeId": {
+      "type": "number"
     },
     "plate": {
       "type": "string"
