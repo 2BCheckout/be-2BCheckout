@@ -9,15 +9,28 @@
     "TimeStamp": true
   },
   "properties": {
-    "student": {
-      "type": "string"
+    "studentId": {
+      "type": "number",
+      "required": true
     },
-    "ride": {
-      "type": "string"
+    "rideId": {
+      "type": "number",
+      "required": true
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "student": {
+      "type": "belongsTo",
+      "model": "Student",
+      "foreignKey": "studentId"
+    },
+    "ride": {
+      "type": "belongsTo",
+      "model": "Ride",
+      "foreignKey": "rideId"
+    }
+  },
   "acls": [],
   "methods": {}
 }

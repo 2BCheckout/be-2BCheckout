@@ -75,7 +75,15 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "rides": {
+      "type": "hasMany",
+      "model": "Ride",
+      "foreignKey": "studentId",
+      "through": "Boarding",
+      "keyThrough": "rideId"
+    }
+  },
   "acls": [],
   "methods": {}
 }
