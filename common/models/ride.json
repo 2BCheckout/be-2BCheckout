@@ -32,7 +32,7 @@
     "route": {
       "type": "belongsTo",
       "model": "Route",
-      "foreignKey": "id"
+      "foreignKey": "idRoute"
     }
   },
   "acls": [],
