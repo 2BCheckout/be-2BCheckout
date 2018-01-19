@@ -28,6 +28,11 @@
       "foreignKey": "rideId",
       "through": "Boarding",
       "keyThrough": "studentId"
+    },
+    "route": {
+      "type": "belongsTo",
+      "model": "Route",
+      "foreignKey": "id"
     }
   },
   "acls": [],
