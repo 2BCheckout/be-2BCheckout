@@ -9,8 +9,8 @@
     "TimeStamp": true
   },
   "properties": {
-    "route": {
-      "type": "string"
+    "routeId": {
+      "type": "number"
     },
     "plate": {
       "type": "string"
@@ -28,6 +28,11 @@
       "foreignKey": "rideId",
       "through": "Boarding",
       "keyThrough": "studentId"
+    },
+    "route": {
+      "type": "belongsTo",
+      "model": "Route",
+      "foreignKey": "id"
     }
   },
   "acls": [],
