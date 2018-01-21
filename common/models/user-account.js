@@ -13,7 +13,7 @@ module.exports = function(Useraccount) {
 	});
 
 	Useraccount.observe('after save', function(ctx, next){
-		console.log("{"+ctx.instance.type+"}", ctx.instance.type == "admin");
+		// console.log("{"+ctx.instance.type+"}", ctx.instance.type == "admin");
 		if(ctx.isNewInstance && ctx.instance.type !== undefined){
 			console.log("after create");
 			app.models.Role.findOne({where:{name: ctx.instance.type}}, function(err, role) {
@@ -32,7 +32,7 @@ module.exports = function(Useraccount) {
 					});
 				}
 			});
-		}else if(ctx.instance.type !== undefined){
+		}else if(ctx.instance && ctx.instance.type !== undefined){
 			console.log("after update");
 			app.models.Role.findOne({ where: {name: ctx.instance.type}}, function(err, role) {
 				if (err) throw err;

@@ -45,7 +45,8 @@ function createModel(app, model) {
             rolesRecords = model === 'Role' ? records : rolesRecords;
         }
         if (!mapped && usersRecords.length > 0 && rolesRecords.length > 0) {
-            rolesRecords.forEach(role => { mapRoleUser(app, role) })
+            rolesRecords.forEach(role => { mapRoleUser(app, role) });
+            mapped = true;
         }
     })
 }
