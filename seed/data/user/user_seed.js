@@ -6,6 +6,7 @@ module.exports = [
         username: 'afernandez',
         email: 'olorenzo@outlook.com',
         password: '123456',
+        status: 'active',
         createdAt: new Date(),
         modifiedAt: new Date()
     }, {
@@ -13,6 +14,7 @@ module.exports = [
         username: 'clopez',
         email: 'cyber_heroe@unitec.edu',
         password: '123456',
+        status: 'active',
         createdAt: new Date(),
         modifiedAt: new Date()
     }
