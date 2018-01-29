@@ -9,6 +9,22 @@
     "TimeStamp": true
   },
   "properties": {
+    "account_number": {
+      "type": "string",
+      "required": true,
+      "length": 13,
+      "precision": null,
+      "scale": null,
+      "mysql": {
+        "columnName": "account_number",
+        "dataType": "char",
+        "dataLength": 13,
+        "dataPrecision": null,
+        "dataScale": null,
+        "nullable": "N"
+      },
+      "_selectable": false
+    },
     "names": {
       "type": "String",
       "required": true,
