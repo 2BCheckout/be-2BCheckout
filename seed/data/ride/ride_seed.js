@@ -3,57 +3,47 @@
 module.exports = [
     {
         routeId: 1,
-        name: 'route_1',
-        plate: 'AFCB133',
-        date: new Date()
+        plate: 'AFCB134',
+        date: new Date(2018, 0, 5)
     }, {
-        routeId: 1,
-        name: 'route_2',
+        routeId: 2,
         plate: 'AFCB133',
-        date: new Date()
+        date: new Date(2018, 1, 2)
     },
     {
-        routeId: 1,
-        name: 'route_3',
+        routeId: 3,
         plate: 'AFCB133',
-        date: new Date()
+        date: new Date(2017, 5, 10)
     }, {
-        routeId: 1,
-        name: 'route_4',
-        plate: 'AFCB133',
-        date: new Date()
+        routeId: 4,
+        plate: 'AFCB137',
+        date: new Date(2017, 1, 20)
     },
     {
-        routeId: 1,
-        name: 'route_5',
-        plate: 'AFCB133',
-        date: new Date()
+        routeId: 5,
+        plate: 'AFCR173',
+        date: new Date(2018, 0, 5)
     }, {
-        routeId: 1,
-        name: 'route_6',
+        routeId: 6,
         plate: 'AFCB133',
-        date: new Date()
+        date: new Date(2018, 0, 5)
     },
     {
-        routeId: 1,
-        name: 'route_7',
-        plate: 'AFCB133',
-        date: new Date()
+        routeId: 7,
+        plate: 'AFCR173',
+        date: new Date(2018, 0, 5)
     }, {
-        routeId: 1,
-        name: 'route_8',
+        routeId: 8,
         plate: 'AFCB133',
-        date: new Date()
+        date: new Date(2018, 0, 5)
     },
     {
-        routeId: 1,
-        name: 'route_9',
+        routeId: 2,
         plate: 'AFCB133',
-        date: new Date()
+        date: new Date(2018, 0, 5)
     }, {
-        routeId: 1,
-        name: 'route_10',
-        plate: 'AFCB133',
-        date: new Date()
+        routeId: 3,
+        plate: 'VFCB543',
+        date: new Date(2018, 0, 5)
     }
 ];
