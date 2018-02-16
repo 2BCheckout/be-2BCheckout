@@ -6,7 +6,7 @@ module.exports = function(Ride) {
 	Ride.getReport = function(filter, skip, limit, cb, debug){
 		console.log('filter: ', filter);
 		const routeRegx = new RegExp(filter.route === '.*' ? '.*' : `.*${filter.route}.*`, 'i');
-		const plateRegx = new RegExp(filter.bus_plate === '.*' ? '.*' : `.*${filter.bus_plate}.*`);
+		const plateRegx = new RegExp(filter.bus_plate === '.*' ? '.*' : `.*${filter.bus_plate}.*`, 'i');
 
 		Ride.find({
 			where: {
@@ -64,7 +64,26 @@ module.exports = function(Ride) {
             if(err)
                 cb(err, null);
             else {
-                const xls = json2xls(data);
+            	const formatedData = [];
+            	data.forEach(ride => {
+	            	if (ride.students().length > 0) {
+	            		ride.students().forEach(student => {
+	            			console.log('student: ', student);
+	            			formatedData.push({
+	            				student_name: student.names,
+	            				account_number: student.account_number,
+	            				phone: student.phone,
+	            				card_number: student.card_number,
+	            				email: student.email,
+	            				plate: ride.plate,
+	            				date: ride.date,
+	            				route_name: ride.route().name,
+	            				route_description: ride.route().description
+	            			});
+	            		});
+	            	}
+            	});
+                const xls = json2xls(formatedData);
                 fs.writeFileSync('./data.xlsx', xls, 'binary');
                 res.download('./data.xlsx');
             }
