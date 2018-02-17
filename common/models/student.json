@@ -88,6 +88,11 @@
         "nullable": "N"
       },
       "_selectable": false
+    },
+    "active": {
+      "type": "boolean",
+      "required": true,
+      "default": false
     }
   },
   "validations": [],
