@@ -7,6 +7,8 @@ module.exports = [
 		phone: '14408414',
 		card_number: 20000000,
 		email: 'sem.semper.erat@ultricesiaculisodio.ca',
+		username: 'sem',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -17,6 +19,8 @@ module.exports = [
 		phone: '12877235',
 		card_number: 20000002,
 		email: 'bibendum@FuscemollisDuis.co.uk',
+		username: 'bibendum',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -27,6 +31,8 @@ module.exports = [
 		phone: '38501791',
 		card_number: 20000003,
 		email: 'pharetra@nequepellentesquemassa.net',
+		username: 'pharetra',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -37,6 +43,8 @@ module.exports = [
 		phone: '57121806',
 		card_number: 20000004,
 		email: 'Nam.ac.nulla@sagittis.ca',
+		username: 'Nam',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -47,6 +55,8 @@ module.exports = [
 		phone: '70143560',
 		card_number: 20000005,
 		email: 'sodales.Mauris.blandit@elitdictumeu.net',
+		username: 'sodales',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -57,6 +67,8 @@ module.exports = [
 		phone: '82761325',
 		card_number: 20000006,
 		email: 'vulputate@adipiscingelitAliquam.edu',
+		username: 'vulputate',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -67,6 +79,8 @@ module.exports = [
 		phone: '06771787',
 		card_number: 20000007,
 		email: 'eros.Proin.ultrices@tellusimperdiet.com',
+		username: 'eros',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -77,6 +91,8 @@ module.exports = [
 		phone: '85989314',
 		card_number: 20000008,
 		email: 'Curabitur@scelerisque.org',
+		username: 'Curabitur',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -87,6 +103,8 @@ module.exports = [
 		phone: '08790970',
 		card_number: 20000009,
 		email: 'ligula.eu@molestie.com',
+		username: 'ligula',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -97,6 +115,8 @@ module.exports = [
 		phone: '21004668',
 		card_number: 20000010,
 		email: 'velit@gravida.net',
+		username: 'velit',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -107,6 +127,8 @@ module.exports = [
 		phone: '22440715',
 		card_number: 20000011,
 		email: 'augue.ac.ipsum@Phasellus.ca',
+		username: 'augue',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -117,6 +139,8 @@ module.exports = [
 		phone: '03681398',
 		card_number: 20000012,
 		email: 'erat.vitae@seddui.net',
+		username: 'erat',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -127,6 +151,8 @@ module.exports = [
 		phone: '24211050',
 		card_number: 20000013,
 		email: 'tellus.lorem.eu@eu.net',
+		username: 'tellus',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -137,6 +163,8 @@ module.exports = [
 		phone: '60188905',
 		card_number: 20000014,
 		email: 'auctor@amet.com',
+		username: 'auctor',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -147,6 +175,8 @@ module.exports = [
 		phone: '81383128',
 		card_number: 20000015,
 		email: 'libero@Maecenasornare.edu',
+		username: 'libero',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -157,6 +187,8 @@ module.exports = [
 		phone: '88557310',
 		card_number: 20000016,
 		email: 'metus.Aliquam.erat@in.org',
+		username: 'metus',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -167,6 +199,8 @@ module.exports = [
 		phone: '83815119',
 		card_number: 20000017,
 		email: 'ipsum.dolor.sit@nisidictumaugue.co.uk',
+		username: 'ipsum',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -177,6 +211,8 @@ module.exports = [
 		phone: '73453220',
 		card_number: 20000018,
 		email: 'Suspendisse.aliquet@nulla.net',
+		username: 'Suspendisse',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -187,6 +223,8 @@ module.exports = [
 		phone: '32459686',
 		card_number: 20000019,
 		email: 'nostra.per@Sedneque.net',
+		username: 'nostra',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -197,6 +235,8 @@ module.exports = [
 		phone: '84891087',
 		card_number: 20000020,
 		email: 'Maecenas.mi.felis@pretium.com',
+		username: 'Maecenas',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -207,6 +247,8 @@ module.exports = [
 		phone: '03395825',
 		card_number: 20000021,
 		email: 'massa.non.ante@Suspendisse.com',
+		username: 'massa',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -217,6 +259,8 @@ module.exports = [
 		phone: '67920493',
 		card_number: 20000022,
 		email: 'Nunc.pulvinar.arcu@iaculislacuspede.co.uk',
+		username: 'Nunc',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -227,6 +271,8 @@ module.exports = [
 		phone: '23183079',
 		card_number: 20000023,
 		email: 'ornare.elit@nec.co.uk',
+		username: 'ornare',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -237,6 +283,8 @@ module.exports = [
 		phone: '18580532',
 		card_number: 20000024,
 		email: 'luctus.vulputate@elitelitfermentum.com',
+		username: 'luctus',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -247,6 +295,8 @@ module.exports = [
 		phone: '13940522',
 		card_number: 20000025,
 		email: 'sodales.elit.erat@quis.co.uk',
+		username: 'sodales',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -257,6 +307,8 @@ module.exports = [
 		phone: '78028093',
 		card_number: 20000026,
 		email: 'ut.quam.vel@ametfaucibusut.net',
+		username: 'ut',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -267,6 +319,8 @@ module.exports = [
 		phone: '18316768',
 		card_number: 20000027,
 		email: 'hendrerit@fermentumconvallisligula.edu',
+		username: 'hendrerit',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -277,6 +331,8 @@ module.exports = [
 		phone: '56399099',
 		card_number: 20000028,
 		email: 'Quisque@magnaatortor.com',
+		username: 'Quisque',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -287,6 +343,8 @@ module.exports = [
 		phone: '54689479',
 		card_number: 20000029,
 		email: 'montes@sociisnatoque.net',
+		username: 'montes',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -297,6 +355,8 @@ module.exports = [
 		phone: '01765252',
 		card_number: 20000031,
 		email: 'lobortis@arcu.net',
+		username: 'lobortis',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -307,6 +367,8 @@ module.exports = [
 		phone: '68955290',
 		card_number: 20000032,
 		email: 'Nullam.velit.dui@accumsan.edu',
+		username: 'Nullam',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -317,6 +379,8 @@ module.exports = [
 		phone: '98988343',
 		card_number: 20000033,
 		email: 'parturient@etmalesuadafames.net',
+		username: 'parturient',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -327,6 +391,8 @@ module.exports = [
 		phone: '60632442',
 		card_number: 20000034,
 		email: 'auctor.velit@volutpat.co.uk',
+		username: 'auctor',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -337,6 +403,8 @@ module.exports = [
 		phone: '66434381',
 		card_number: 20000035,
 		email: 'ridiculus.mus.Aenean@lorem.com',
+		username: 'ridiculus',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -347,6 +415,8 @@ module.exports = [
 		phone: '43188666',
 		card_number: 20000036,
 		email: 'nunc@tristique.com',
+		username: 'nunc',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -357,6 +427,8 @@ module.exports = [
 		phone: '07001337',
 		card_number: 20000037,
 		email: 'amet@rutrum.edu',
+		username: 'amet',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -367,6 +439,8 @@ module.exports = [
 		phone: '06658183',
 		card_number: 20000038,
 		email: 'hendrerit.consectetuer@magnaNam.ca',
+		username: 'hendrerit',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -377,6 +451,8 @@ module.exports = [
 		phone: '65837251',
 		card_number: 20000040,
 		email: 'magna.sed@porttitortellusnon.ca',
+		username: 'magna',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -387,6 +463,8 @@ module.exports = [
 		phone: '19400411',
 		card_number: 20000041,
 		email: 'lobortis@cursusnon.org',
+		username: 'lobortis',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -397,6 +475,8 @@ module.exports = [
 		phone: '90903054',
 		card_number: 20000042,
 		email: 'Sed.nulla.ante@Quisqueliberolacus.net',
+		username: 'Sed',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -407,6 +487,8 @@ module.exports = [
 		phone: '23036881',
 		card_number: 20000043,
 		email: 'vehicula@seddui.co.uk',
+		username: 'vehicula',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -417,6 +499,8 @@ module.exports = [
 		phone: '10728844',
 		card_number: 20000044,
 		email: 'Nulla.aliquet@egestasDuisac.ca',
+		username: 'Nulla',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -427,6 +511,8 @@ module.exports = [
 		phone: '85277464',
 		card_number: 20000045,
 		email: 'vestibulum.lorem.sit@tellusjusto.net',
+		username: 'vestibulum',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -437,6 +523,8 @@ module.exports = [
 		phone: '90909176',
 		card_number: 20000046,
 		email: 'diam.luctus.lobortis@lectusquismassa.edu',
+		username: 'diam',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -447,6 +535,8 @@ module.exports = [
 		phone: '12721768',
 		card_number: 20000047,
 		email: 'sed@famesac.org',
+		username: 'sed',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -457,6 +547,8 @@ module.exports = [
 		phone: '13870436',
 		card_number: 20000048,
 		email: 'auctor.ullamcorper@mauris.co.uk',
+		username: 'auctor',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -467,6 +559,8 @@ module.exports = [
 		phone: '21342115',
 		card_number: 20000049,
 		email: 'a.auctor.non@nibhQuisquenonummy.ca',
+		username: 'a',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -477,6 +571,8 @@ module.exports = [
 		phone: '93439099',
 		card_number: 20000050,
 		email: 'sed.est@vehicula.co.uk',
+		username: 'sed',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -487,6 +583,8 @@ module.exports = [
 		phone: '43444309',
 		card_number: 20000051,
 		email: 'sodales@fringilla.com',
+		username: 'sodales',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -497,6 +595,8 @@ module.exports = [
 		phone: '32301710',
 		card_number: 20000052,
 		email: 'Aliquam@liberoet.edu',
+		username: 'Aliquam',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -507,6 +607,8 @@ module.exports = [
 		phone: '60020556',
 		card_number: 20000053,
 		email: 'ante.lectus@elementum.ca',
+		username: 'ante',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -517,6 +619,8 @@ module.exports = [
 		phone: '34210198',
 		card_number: 20000054,
 		email: 'tellus.non@tristiquepharetraQuisque.co.uk',
+		username: 'tellus',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -527,6 +631,8 @@ module.exports = [
 		phone: '95037535',
 		card_number: 20000055,
 		email: 'est.mauris.rhoncus@afacilisis.com',
+		username: 'est',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -537,6 +643,8 @@ module.exports = [
 		phone: '02410333',
 		card_number: 20000056,
 		email: 'posuere.enim@aauctornon.com',
+		username: 'posuere',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -547,6 +655,8 @@ module.exports = [
 		phone: '01554070',
 		card_number: 20000057,
 		email: 'Aliquam@eunulla.net',
+		username: 'Aliquam',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -557,6 +667,8 @@ module.exports = [
 		phone: '23603856',
 		card_number: 20000058,
 		email: 'ac@Fuscealiquamenim.net',
+		username: 'ac',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -567,6 +679,8 @@ module.exports = [
 		phone: '11215103',
 		card_number: 20000059,
 		email: 'Pellentesque.tincidunt@anteiaculis.com',
+		username: 'Pellentesque',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -577,6 +691,8 @@ module.exports = [
 		phone: '84392151',
 		card_number: 20000060,
 		email: 'sit.amet@risus.co.uk',
+		username: 'sit',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -587,6 +703,8 @@ module.exports = [
 		phone: '97703301',
 		card_number: 20000061,
 		email: 'et@acfacilisis.net',
+		username: 'et',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -597,6 +715,8 @@ module.exports = [
 		phone: '31060830',
 		card_number: 20000063,
 		email: 'malesuada@facilisismagnatellus.edu',
+		username: 'malesuada',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -607,6 +727,8 @@ module.exports = [
 		phone: '36302196',
 		card_number: 20000064,
 		email: 'luctus.ipsum@viverraMaecenasiaculis.edu',
+		username: 'luctus',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -617,6 +739,8 @@ module.exports = [
 		phone: '37384320',
 		card_number: 20000065,
 		email: 'amet@fermentumarcuVestibulum.ca',
+		username: 'amet',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -627,6 +751,8 @@ module.exports = [
 		phone: '45779750',
 		card_number: 20000066,
 		email: 'libero@lacusUtnec.com',
+		username: 'libero',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -637,6 +763,8 @@ module.exports = [
 		phone: '53081575',
 		card_number: 20000067,
 		email: 'bibendum@consequat.co.uk',
+		username: 'bibendum',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -647,6 +775,8 @@ module.exports = [
 		phone: '22085237',
 		card_number: 20000068,
 		email: 'pellentesque@senectusetnetus.com',
+		username: 'pellentesque',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -657,6 +787,8 @@ module.exports = [
 		phone: '87307051',
 		card_number: 20000069,
 		email: 'libero.lacus.varius@tinciduntvehicula.org',
+		username: 'libero',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -667,6 +799,8 @@ module.exports = [
 		phone: '76217925',
 		card_number: 20000070,
 		email: 'fermentum@enim.net',
+		username: 'fermentum',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -677,6 +811,8 @@ module.exports = [
 		phone: '02211332',
 		card_number: 20000071,
 		email: 'magna.Ut@adipiscingelitAliquam.co.uk',
+		username: 'magna',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -687,6 +823,8 @@ module.exports = [
 		phone: '29647663',
 		card_number: 20000072,
 		email: 'Duis.volutpat.nunc@vitaesodalesat.edu',
+		username: 'Duis',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -697,6 +835,8 @@ module.exports = [
 		phone: '34262463',
 		card_number: 20000073,
 		email: 'Pellentesque.ut.ipsum@etultrices.ca',
+		username: 'Pellentesque',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -707,6 +847,8 @@ module.exports = [
 		phone: '22154812',
 		card_number: 20000074,
 		email: 'Aenean.massa@parturientmontes.edu',
+		username: 'Aenean',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -717,6 +859,8 @@ module.exports = [
 		phone: '22225637',
 		card_number: 20000075,
 		email: 'Suspendisse@magna.org',
+		username: 'Suspendisse',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -727,6 +871,8 @@ module.exports = [
 		phone: '33463306',
 		card_number: 20000076,
 		email: 'dis.parturient.montes@ligulatortor.org',
+		username: 'dis',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -737,6 +883,8 @@ module.exports = [
 		phone: '62702585',
 		card_number: 20000077,
 		email: 'Morbi.accumsan.laoreet@nonbibendum.org',
+		username: 'Morbi',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -747,6 +895,8 @@ module.exports = [
 		phone: '02923721',
 		card_number: 20000078,
 		email: 'at.libero.Morbi@euerosNam.co.uk',
+		username: 'at',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -757,6 +907,8 @@ module.exports = [
 		phone: '66000427',
 		card_number: 20000080,
 		email: 'elit.pede.malesuada@tincidunt.com',
+		username: 'elit',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -767,6 +919,8 @@ module.exports = [
 		phone: '59113203',
 		card_number: 20000081,
 		email: 'ullamcorper.viverra@liberoDonec.net',
+		username: 'ullamcorper',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -777,6 +931,8 @@ module.exports = [
 		phone: '73925938',
 		card_number: 20000082,
 		email: 'nonummy.Fusce.fermentum@aliquet.co.uk',
+		username: 'nonummy',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -787,6 +943,8 @@ module.exports = [
 		phone: '66744746',
 		card_number: 20000083,
 		email: 'Donec.elementum@tacitisociosquad.com',
+		username: 'Donec',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -797,6 +955,8 @@ module.exports = [
 		phone: '25219648',
 		card_number: 20000084,
 		email: 'a.facilisis@a.org',
+		username: 'a',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -807,6 +967,8 @@ module.exports = [
 		phone: '09276200',
 		card_number: 20000085,
 		email: 'risus.Donec.egestas@blandit.ca',
+		username: 'risus',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -817,6 +979,8 @@ module.exports = [
 		phone: '54701347',
 		card_number: 20000086,
 		email: 'metus.Vivamus.euismod@Mauris.ca',
+		username: 'metus',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -827,6 +991,8 @@ module.exports = [
 		phone: '03720332',
 		card_number: 20000087,
 		email: 'tempus.scelerisque@erateget.co.uk',
+		username: 'tempus',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -837,6 +1003,8 @@ module.exports = [
 		phone: '17715786',
 		card_number: 20000088,
 		email: 'Suspendisse.sagittis@magna.ca',
+		username: 'Suspendisse',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -847,6 +1015,8 @@ module.exports = [
 		phone: '32653927',
 		card_number: 20000090,
 		email: 'tincidunt.aliquam@mitempor.org',
+		username: 'tincidunt',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -857,6 +1027,8 @@ module.exports = [
 		phone: '61450658',
 		card_number: 20000091,
 		email: 'congue@erosProin.com',
+		username: 'congue',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -867,6 +1039,8 @@ module.exports = [
 		phone: '21531565',
 		card_number: 20000093,
 		email: 'lacinia.at.iaculis@commodo.ca',
+		username: 'lacinia',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -877,6 +1051,8 @@ module.exports = [
 		phone: '48634132',
 		card_number: 20000094,
 		email: 'iaculis@infelisNulla.net',
+		username: 'iaculis',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -887,6 +1063,8 @@ module.exports = [
 		phone: '59636511',
 		card_number: 20000095,
 		email: 'Nunc.commodo@metus.co.uk',
+		username: 'Nunc',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -897,6 +1075,8 @@ module.exports = [
 		phone: '02576625',
 		card_number: 20000096,
 		email: 'Vivamus.rhoncus@facilisisegetipsum.co.uk',
+		username: 'Vivamus',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -907,6 +1087,8 @@ module.exports = [
 		phone: '83310339',
 		card_number: 20000097,
 		email: 'faucibus.id@euarcuMorbi.net',
+		username: 'faucibus',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -917,6 +1099,8 @@ module.exports = [
 		phone: '93336830',
 		card_number: 20000098,
 		email: 'sociis.natoque@ipsumdolorsit.co.uk',
+		username: 'sociis',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
@@ -927,6 +1111,8 @@ module.exports = [
 		phone: '25048729',
 		card_number: 20000099,
 		email: 'erat.vel.pede@fringillaornareplacerat.org',
+		username: 'erat',
+		password: '123456',
 		createdAt: new Date(),
 		modifiedAt: new Date(),
 		active: false
