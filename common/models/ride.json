@@ -18,6 +18,16 @@
     "date": {
       "type": "date",
       "required": true
+    },
+    "latitude": {
+      "type": "number"
+    },
+    "longitude": {
+      "type": "number"
+    },
+    "isActive": {
+      "type": "boolean",
+      "default": false
     }
   },
   "validations": [],
