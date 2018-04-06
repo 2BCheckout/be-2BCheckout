@@ -19,12 +19,8 @@
       "type": "date",
       "required": true
     },
-    "latitude": {
-      "type": "number"
-    },
-    "longitude": {
-      "type": "number"
-    },
+    "latitude": { "type": "number", "dataType": "float", "precision": 20, "scale": 4 },
+    "longitude": { "type": "number", "dataType": "float", "precision": 20, "scale": 4 },
     "isActive": {
       "type": "boolean",
       "default": false
